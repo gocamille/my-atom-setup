@@ -4,6 +4,8 @@ If you really want to know how I started with Atom (and vim to come), then step 
 
 The main purpose of this guide is to provide a hub for me to remember what the heck I've added to my Atom setup and force me to learn how to use them.
 
+The Atom package list is here: [List of Atom Packages]()
+
 ## Credits
 
 This wouldn't be a living and breathing document without the incredible female FEDs I've learned from around Canada and the U.S. -- I have to thank @minamarkham for sharing her awesome configurations. I also encourage you to check out @elijahmanor for his article on recommended github atom packages.
